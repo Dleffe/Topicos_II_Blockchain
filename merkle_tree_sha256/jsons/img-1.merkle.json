@@ -1,0 +1,13 @@
+{
+  "root": "2158682850ebe46a497f76e6d75e88a65b545eb02ada9bbdffab6fa685168e7c",
+  "proof": [
+    {
+      "position": "right",
+      "hash": "2970b6778610c19ab0bd474979cf8bb6158c9724aca9e3c54a61bcd351e6c5b0"
+    },
+    {
+      "position": "right",
+      "hash": "6ab761661bd81f0753608a65bbe2d60a1961a36322bc9d4e04017607bc709c66"
+    }
+  ]
+}
